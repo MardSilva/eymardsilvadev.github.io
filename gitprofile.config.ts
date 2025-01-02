@@ -124,16 +124,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: IGTI,
+      degree: 'MBA in Software Architecture and Solutions',
+      from: '2023',
+      to: '2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'UNINTER',
+      degree: 'Associate Degree in System Analysis and Development',
+      from: '2018',
+      to: '2022',
     },
   ],
   publications: [
