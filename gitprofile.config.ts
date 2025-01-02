@@ -2,14 +2,14 @@
 
 const CONFIG = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (This is the only required config)
+    username: 'MardSilva', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
    * If you are deploying to https://<USERNAME>.github.io/<REPO_NAME>/,
    * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
    */
-  base: '/gitprofile/',
+  base: '/',
   projects: {
     github: {
       display: true, // Display GitHub projects?
@@ -57,12 +57,12 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
+    linkedin: 'https://www.linkedin.com/in/eymardsilva/',
     twitter: 'arif_szn',
     mastodon: 'arifszn@mastodon.social',
     researchGate: '',
     facebook: '',
-    instagram: '',
+    instagram: 'ei_mard',
     reddit: '',
     threads: '',
     youtube: '', // example: 'pewdiepie'
@@ -76,27 +76,27 @@ const CONFIG = {
     telegram: '',
     website: 'https://www.arifszn.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'eym_silva@outlook.com',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
+    'NET/NET Core',
+    'C#',
+    'Blazor',
+    'SQL/Oracle (PL-SQL)/T-SQL',
+    'ASP.NET/ASP.NET Core',
+    'MVC',
+    'Azure, Azure Devops, GIT',
+    'MySQL, PostgreSQL, MongoDB',
+    'LINQ, EF Core, Dapper/Mapper',
     'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Hangfire/DataDog',
+    'Unit Tests (xUnit, Builder NSubstitute)',
+    'TDD, BDD, DDD',
+    'Scrum/Kanban',
   ],
   experiences: [
     {
