@@ -138,7 +138,7 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: Instituto de Gestão e Tecnologia da Informação (IGTI),
+      institution: 'Instituto de Gestão e Tecnologia da Informação (IGTI)',
       degree: 'MBA in Software Architecture and Solutions',
       from: '2023',
       to: '2024',
