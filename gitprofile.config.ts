@@ -69,13 +69,13 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: 'eym_silva',
+    dev: 'eym_silva',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
-    phone: '',
+    website: 'https://eymardsilvadev.github.io',
+    phone: '+351 931 959 360',
     email: 'eym_silva@outlook.com',
   },
   resume: {
@@ -100,18 +100,32 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'NoAtum (Amaris Consulting)',
+      position: 'Senior .NET Developer',
+      from: 'August 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.noatumlogistics.com/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Nexer',
+      position: 'NET Developer',
+      from: 'February 2023',
+      to: 'March 2024',
+      companyLink: 'https://nexergroup.com/',
+    },
+     {
+      company: 'Localiza&Co',
+      position: '.NET Developer',
+      from: 'March 2022',
+      to: 'Februray 2023',
+      companyLink: 'https://www.localizaco.com/',
+    },
+    {
+      company: 'Ailos',
+      position: 'Sytem Analyst/.NET Developer',
+      from: 'March 2021',
+      to: 'March 2022',
+      companyLink: 'https://www.ailos.coop.br/',
     },
   ],
   certifications: [
@@ -124,42 +138,25 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: IGTI,
+      institution: Instituto de Gestão e Tecnologia da Informação (IGTI),
       degree: 'MBA in Software Architecture and Solutions',
       from: '2023',
       to: '2024',
     },
     {
-      institution: 'UNINTER',
+      institution: 'Centro Universitário Internacional (UNINTER)',
       degree: 'Associate Degree in System Analysis and Development',
       from: '2018',
       to: '2022',
     },
   ],
   publications: [
-    {
-      title: 'Publication Title',
-      conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
-    {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
+    
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    source: 'medium', // medium | dev
+    username: 'eym_silva', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
